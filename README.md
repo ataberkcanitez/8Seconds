@@ -7,7 +7,7 @@ You have 8 seconds to answer or guess. In 8 seconds, timer will stop, and check 
 The one who made the closest quess will get a point, after 3 rounds the one who has more points will win the game.
 
  **Technologies:**
-    - Swift
+    - Swift<br>
     - Programmatic User Interface
     - Firebase Realtime Database
     - Firebase CloudFirestore
